@@ -1,4 +1,4 @@
-export const API_KEY="AIzaSyAUXhoxxgB-sku57Wo8BKQQBHnKFJWZFRg"
+export const API_KEY="YourAPIKEY to test"
 
 // value convert from thousand views to million aur k 
 export const value_convert=(value)=>{
