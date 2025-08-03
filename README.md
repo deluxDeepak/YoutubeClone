@@ -1,22 +1,19 @@
-npm install moment
-Moment kya hota hai ?
+# YouTube Clone Project 
 
-Dynamic class kaise dete hai aur kyun dete hai ?
+## Overview
 
-flex 1 ka kya matlab hai 
-.publisher div{
-    flex: 1;
-    line-height: 18px;
-}
+This project is a YouTube clone featuring a `Recomended` component built using React.js. The `Recomended` component displays a list of recommended videos fetched from the YouTube Data API.
 
-ye flex-bsic kaise kam karta hai 
-.recommended{
-    flex-basis: 30%;
-}
+## Features
 
-ye css property kaise use kare 
-.side-link.active img{
-    padding-bottom: 2px;
-    border-bottom: 3px solid red;
+-   **Fetches recommended videos:**  Retrieves a list of popular videos from the YouTube API.
+-   **Displays video information:** Shows video thumbnails, titles, channel names, and view counts.
+-   **Navigation:**  Allows users to navigate to specific video pages.
 
-}
+## Technologies Used
+
+-   React.js
+-   CSS
+-   YouTube Data API v3
+
+
